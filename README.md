@@ -1,6 +1,6 @@
 # Escola API
 
-Bem-vindo à **Escola API**, uma API desenvolvida com [**Django Rest Framework**](https://www.django-rest-framework.org/) para gerenciar informações de uma escola. Esta API permite o gerenciamento de estudantes, cursos e matrículas. Desenvolvida para fins de estudo.
+Bem-vindo à **Escola API**, uma API desenvolvida com [**Django Rest Framework**](https://www.django-rest-framework.org/) para gerenciar informações de uma escola. Esta API permite o gerenciamento de estudantes, cursos e matrículas.
 
 ## Índice
 
